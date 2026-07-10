@@ -1,8 +1,10 @@
-<h1 align="center">👋</h1>
-<h1 align="center">Hey, I'm Olivia Sikder</h1>
+<h1 align="center">
+  👋<br>
+  Hey, I'm Olivia Sikder
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;Full+Stack+Developer;React+%7C+Node.js+%7C+AI;Building+Scalable+Production-Grade+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=3794FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;Full+Stack+Developer;React+%7C+Node.js+%7C+AI;Building+Scalable+Production-Grade+Apps" alt="Typing SVG" />
 </p>
 <p align="center">
 
@@ -113,8 +115,6 @@ CarePulse is a modern healthcare management platform that simplifies **patient r
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Olivia005&theme=tokyonight&hide_border=true"/>
 </p>
-
-<h3 align="center">Olivia's Contribution Graph</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Olivia005&theme=tokyo-night&hide_border=true"/>
