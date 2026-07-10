@@ -1,8 +1,8 @@
-👋
+<h1 align="center">👋</h1>
 <h1 align="center">Hey, I'm Olivia Sikder</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer🚀;Full+Stack+Developer;React+%7C+Node.js+%7C+AI;Building+Scalable+Production-Grade+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;Full+Stack+Developer;React+%7C+Node.js+%7C+AI;Building+Scalable+Production-Grade+Apps" alt="Typing SVG" />
 </p>
 <p align="center">
 
@@ -25,15 +25,10 @@
 name: Olivia Sikder
 role: Full Stack Developer
 location: Kolkata, India
-currently_learning:
-  - MERN Stack
-  - Distributed Systems
-  - AI
-  - Database Management
-competitive_programming:
-  - 1200+ Problems Solved (LeetCode & GeeksforGeeks)
+currently_learning: [ MERN Stack, Distributed Systems,Database Management,AI ]
+competitive_programming: [ 1200+ Problems Solved (LeetCode & GeeksforGeeks) ]
 fun_fact:
-  "I love building products that solve real-world problems."
+  "I love building products that solve real-world problems"
 ```
 
 - 🔭 Building scalable full-stack applications with React, Node.js, Express.js, and MongoDB.
@@ -109,21 +104,22 @@ CarePulse is a modern healthcare management platform that simplifies **patient r
 </table>
 
 ## 📊 GitHub Analytics
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Olivia005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olivia005&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Olivia005&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Olivia005&theme=tokyo-night&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Olivia005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olivia005&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 🏆 GitHub Trophy
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Olivia005&theme=onedark&no-frame=true&margin-w=15"/>
+  <img src="https://streak-stats.demolab.com?user=Olivia005&theme=tokyonight&hide_border=true"/>
 </p>
+
+<h3 align="center">Olivia's Contribution Graph</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Olivia005&theme=tokyo-night&hide_border=true"/>
+</p>
+
 
 ## 💻 LeetCode & Coding Achievements
 
@@ -138,6 +134,7 @@ Passionate about competitive programming, having solved **1200+ DSA problems** a
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/oliviasikder2005?theme=dark&font=Baloo&ext=contest" />
 </p>
+
 ## 🔗 Connect With Me
 
 <p align="center">
@@ -154,6 +151,7 @@ Passionate about competitive programming, having solved **1200+ DSA problems** a
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
+
 ## 💭 Quote of the Day
 
 <p align="center">
