@@ -121,7 +121,7 @@ CarePulse is a modern healthcare management platform that simplifies **patient r
 </p>
 
 
-## 💻 LeetCode & Coding Achievements
+## 💻 Coding Achievements
 
 Passionate about competitive programming, having solved **1200+ DSA problems** across LeetCode and GeeksforGeeks, with a personal best **305+ day LeetCode Daily Challenge (POTD) streak**.
 
