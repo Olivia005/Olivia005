@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=3794FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;Full+Stack+Developer;React+%7C+Node.js+%7C+AI;Building+Scalable+Production-Grade+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=3794FF&center=true&vCenter=true&width=1100&lines=Computer+Science+Engineer;Full+Stack+Developer;React+%7C+Node.js+%7C+AI;Building+Scalable+Production-Grade+Apps" alt="Typing SVG" />
 </p>
 <p align="center">
 
@@ -108,16 +108,16 @@ CarePulse is a modern healthcare management platform that simplifies **patient r
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Olivia005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olivia005&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Olivia005&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olivia005&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Olivia005&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Olivia005&theme=transparent&hide_border=true&background=00000000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Olivia005&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Olivia005&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 
