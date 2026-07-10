@@ -19,7 +19,10 @@
 <a href="https://github.com/Olivia005">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=Olivia005&label=Profile%20Views&color=7F3FBF&style=for-the-badge"/>
+<a href="https://leetcode.com/u/oliviasikder2005/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+<!-- <img src="https://komarev.com/ghpvc/?username=Olivia005&label=Profile%20Views&color=7F3FBF&style=for-the-badge"/> -->
 </p>
 
 ## 🚀 About Me
