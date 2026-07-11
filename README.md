@@ -51,7 +51,7 @@ fun_fact:
 ## 🧪 Featured Projects
 <table>
 <tr>
-<td width="50%" align="center">
+<td>
   
 ### 💬 [Sleipner](https://github.com/Olivia005/mern-chat-app)
 **Secure MERN Stack Messaging Platform**
@@ -71,7 +71,7 @@ A feature-rich real-time chat application built using the **MERN Stack**, enabli
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td>
   
 ### 🌱 [VerdiGo](https://github.com/Olivia005/VerdiGo)
 **AI-Powered Sustainability & Climate Action Platform**
@@ -91,7 +91,7 @@ VerdiGo is a comprehensive sustainability platform that empowers users to adopt 
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td>
 
 ### 🏥 [CarePulse](https://github.com/Olivia005/Carepulse)
 **Smart Healthcare Management Platform**
@@ -114,7 +114,7 @@ CarePulse is a modern healthcare management platform that simplifies **patient r
 
 <p align="center">
   <img height="210" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Olivia005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
-  <img height="210" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Olivia005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img height="300" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Olivia005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
