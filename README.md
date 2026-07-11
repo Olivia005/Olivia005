@@ -41,7 +41,7 @@ fun_fact:
 
 - 🔭 Building scalable full-stack applications with React, Node.js, Express.js, and MongoDB.
 - 🌱 Currently learning System Design, AI, and advanced backend development.
-- 💻 Solved **1200+ DSA problems** across LeetCode and GeeksforGeeks.
+- 💻 Actively practiced DSA on LeetCode and GeeksforGeeks.
 - 🏆 Hackathon enthusiast — Participated in **8 to 9 offline hackathons**.
 - ⚡ Interested in AI-powered applications, cloud technologies, and open-source development.
 - 📫 Reach me at **oliviasikder2005@gmail.com**
