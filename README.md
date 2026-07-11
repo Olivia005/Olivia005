@@ -3,10 +3,7 @@
   Hey, I'm Olivia Sikder
 </h1>
 
-<p align="center">
-  <img width="49%" height="220" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Olivia005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"/>
-  <img width="49%" height="220" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Olivia005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=4F8DFF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;Full+Stack+Developer;React+%7C+Node.js+%7C+AI;Building+Scalable+Production-Grade+Apps" alt="Typing SVG" />
 <p align="center">
 
 <a href="https://www.linkedin.com/in/olivia-sikder">
