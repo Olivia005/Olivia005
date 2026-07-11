@@ -113,8 +113,8 @@ CarePulse is a modern healthcare management platform that simplifies **patient r
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Olivia005&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Olivia005&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Olivia005&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github&include_all_commits=true&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Olivia005&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&title_color=58A6FF&text_color=C9D1D9" />
 </p>
 
 <p align="center">
