@@ -95,6 +95,7 @@ VerdiGo is a comprehensive sustainability platform that empowers users to adopt 
 
 ### 🏥 [CarePulse](https://github.com/Olivia005/Carepulse)
 **Smart Healthcare Management Platform**
+
 CarePulse is a modern healthcare management platform that simplifies **patient registration**, **appointment scheduling**, **electronic medical record management**, and **SMS notifications**, enabling seamless communication and improving the overall experience for both patients and healthcare providers.
 
 <br>
@@ -112,8 +113,8 @@ CarePulse is a modern healthcare management platform that simplifies **patient r
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Olivia005&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olivia005&layout=compact&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Olivia005&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olivia005&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
