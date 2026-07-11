@@ -3,7 +3,9 @@
   Hey, I'm Olivia Sikder
 </h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=4F8DFF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;Full+Stack+Developer;React+%7C+Node.js+%7C+AI;Building+Scalable+Production-Grade+Apps" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=4F8CFF&center=true&vCenter=true&width=900&lines=React+%7C+Node.js+%7C+AI+%7C+Web3" />
+</p>
 <p align="center">
 
 <a href="https://www.linkedin.com/in/olivia-sikder">
