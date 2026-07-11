@@ -34,7 +34,7 @@ name: Olivia Sikder
 role: Full Stack Developer
 location: Kolkata, India
 currently_learning: [ MERN Stack, Distributed Systems,Database Management,AI ]
-competitive_programming: [ 1200+ Problems Solved (LeetCode & GeeksforGeeks) ]
+competitive_programming: [ Algorithmic Problem Solving | LeetCode & GeeksforGeeks ]
 fun_fact:
   "I love building products that solve real-world problems"
 ```
